@@ -19,6 +19,7 @@ Siga as etapas abaixo para configurar e executar a API Bellezze:
 - Digite: docker build -t nome-imagem
 - Por fim, execute: docker run -p 8080:8080 nome-imagem (lembre-se, porta 8080 deve estar livre, senão use outra porta)
 - Para testar, baixe a collection do postman neste drive: https://drive.google.com/drive/folders/1ZTCHkQK0mXXsJDgbDZtgbFlrcptGa5ln?usp=drive_link
+- Pode também usar: https://dark-star-283022.postman.co/workspace/a038e1fb-5fd8-4b7b-a015-76d849f17b8a/collection/28280782-e77d9562-34e7-4f76-80ee-843707c44408?action=share&creator=28280782
 - Anexe ao postman, e execute as funcionalidades como desejar.
 - Para visualizar a documentação, acesse: http://localhost:8080/swagger-ui/index.html
 
